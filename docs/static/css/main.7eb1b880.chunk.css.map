@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,yBACE,6CACF","file":"main.7eb1b880.chunk.css","sourcesContent":[".collapse-css-transition {\n  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1);\n}\n"]}
