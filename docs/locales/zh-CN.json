@@ -76,12 +76,9 @@
   "activityDesc": "CSM是Crust Network为激励用户参与存储活动而设计的ERC20标准代币。为了鼓励用户体验我们的测试网以及个人云产品，我们将推出\"完成存储任务，激活CSM奖励\"的活动任务，完成任务的用户可以将CSM以1:1的比例兑换为CRU。",
   "readMore": "阅读更多：《Crust代币指标&经济学》",
   "step1": "步骤1：为Uniswap CRU Pools提供流动性",
-  "step1Desc1": "目前支持支持USDT/CRU、ETH/CRU和USDC/CRU三种交易对的LP token",
-  "step1Desc2": "如果您没有注入流动性，请先点击Add Liquidity按钮提供流动性",
   "step2": "步骤2：选择一个交易池并质押LP token",
-  "step2Desc1": "CSM的释放速度在这三个池子是有所区别的，请先检查确认",
   "step3": "步骤3：质押/取出LP Token，获得CSM奖励",
-  "step3Desc1": "点击Deposit质押你的LP token，点击Withdraw取出的你LP token和CSM奖励，点击Claim取出CSM奖励",
+  "stepDesc": "* 您可以前往Uniswap兑换<1>CRU</1>和<3>CSM</3>。在Uniswap的弹出框里点击“Continue”。",
 
   "loading": "加载中",
   "pooled": "已累积",
