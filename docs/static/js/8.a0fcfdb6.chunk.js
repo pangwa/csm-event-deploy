@@ -1,0 +1,2 @@
+(this["webpackJsonpcru-staking"]=this["webpackJsonpcru-staking"]||[]).push([[8],{1001:function(n,c){},1006:function(n,c){},1264:function(n,c){},961:function(n,c){},962:function(n,c){},971:function(n,c){},972:function(n,c){},992:function(n,c){},995:function(n,c){},996:function(n,c){}}]);
+//# sourceMappingURL=8.a0fcfdb6.chunk.js.map
