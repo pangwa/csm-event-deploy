@@ -235,5 +235,10 @@
   "tokenName": "通证名称",
   "commonBases":"推荐列表",
   "commonBasesTip":"这些通证通常与其他通证配对。",
-  "selectTokenTip": "通过搜索通证的名称或符号或粘贴其地址来查找通证。"
+  "selectTokenTip": "通过搜索通证的名称或符号或粘贴其地址来查找通证。",
+
+  "joinPreviewNetwork": "加入预览网",
+  "previewNetworkLink": "https://wiki.crust.network/docs/zh-CN/previewNetworkMaxwell",
+  "storageExplorer": "存储浏览器",
+  "wiki": "https://wiki.crust.network/zh-CN"
 }

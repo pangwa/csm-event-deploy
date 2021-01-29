@@ -249,5 +249,10 @@
   "tokenName": "Token Name",
   "commonBases":"Common bases",
   "commonBasesTip":"These tokens are commonly paired with other tokens.",
-  "selectTokenTip": "Find a token by searching for its name or symbol or by pasting its address below."
+  "selectTokenTip": "Find a token by searching for its name or symbol or by pasting its address below.",
+
+  "joinPreviewNetwork": "Join Preview Network",
+  "previewNetworkLink": "https://wiki.crust.network/docs/en/previewNetworkMaxwell",
+  "storageExplorer": "Storage Explorer",
+  "wiki": "https://wiki.crust.network/en"
 }
