@@ -108,7 +108,7 @@
   "toleranceExplanation": "Lowering this limit decreases your risk of frontrunning. However, this makes more likely that your transaction will fail due to normal price movements.",
   "tokenSearchPlaceholder": "Search name or paste address",
   "activity": "Provide CRU Liquidity on Uniswap to Get CSM",
-  "activityDesc": "CSM (Crust Storage Market) token is designed for Crust storage market.  The total amount of CSM is 200 million, and will be dropped to community freely. CSM can be used as a ticket to to participate in storage market related CRU drop activities (such as subsequent store-data-to-get-CRU activity), obtain storage market related fee discounts, and get recycled to claim CRU of storage market revenue pool. CRU liquidity event starts on Dec 8th at 14:00 GMT and lasts for 120 days. 100 million CSM will be dropped to CRU liquidity providers.",
+  "activityDesc": "The total amount of CSM is 200 million, and will be dropped to community freely. CSM can be used as a ticket to to participate in storage market related CRU drop activities (such as subsequent store-data-to-get-CRU activity), obtain storage market related fee discounts, and get recycled to claim CRU of storage market revenue pool. CRU liquidity event starts on Dec 8th at 14:00 GMT and lasts for 120 days. 100 million CSM will be dropped to CRU liquidity providers.",
   "readMore": "Read more on: 《Crust Token Indicators & Economics》",
   "step1": "Provide Liquidity On Uniswap",
   "step2": "Choose a trading pool and stake LP token",

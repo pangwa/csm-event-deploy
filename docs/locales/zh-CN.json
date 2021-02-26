@@ -94,7 +94,7 @@
   "enterTokenCont": "输入通证地址并继续",
   "tokenSearchPlaceholder":"搜索名称或粘贴地址",
   "activity": "为CRU提供Uniswap流动性获取CSM",
-  "activityDesc": "CSM (Crust Storage Market) 是Crust的存储市场通证。CSM总量共计2亿，会以免费的方式向社区投放。CSM主要服务于存储市场，可被用作凭证参与存储市场相关投放活动（如后续的存储数据获取CRU活动）、获得商户和用户的存储相关费率优惠、以及兑换存储市场CRU收益池。为CRU提供流动性活动将从12月8号14:00 GMT开始，持续120天，向CRU流动性提供者投放共计1亿个CSM。",
+  "activityDesc": "CSM总量共计2亿，会以免费的方式向社区投放。CSM主要服务于存储市场，可被用作凭证参与存储市场相关投放活动（如后续的存储数据获取CRU活动）、获得商户和用户的存储相关费率优惠、以及兑换存储市场CRU收益池。为CRU提供流动性活动将从12月8号14:00 GMT开始，持续120天，向CRU流动性提供者投放共计1亿个CSM。",
   "readMore": "阅读更多：《Crust代币指标&经济学》",
   "step1": "为Uniswap CRU Pools提供流动性",
   "step2": "选择一个交易池并质押LP token",
