@@ -112,7 +112,7 @@
   "readMore": "Read more on: 《Crust Token Indicators & Economics》",
   "step1": "Provide Liquidity On Uniswap",
   "step2": "Choose a trading pool and stake LP token",
-  "step3": "Stake/withdraw LP Token and get CSM reward",
+  "step3": "As LP token staking event has closed, please \nwithdraw your LP tokens and claim your\n corresponding CSM rewards.",
   "stepDesc": "* Go to Uniswap to swap <1>CRU</1> and <3>CSM</3>. Click \"Continue\" on popup dialog.",
   "transactionSettings":"Transaction Settings",
   "slippageError1": "Enter a valid slippage percentage",
@@ -205,7 +205,7 @@
   "confirmSwapHint3": "or the transaction will revert.'",
   "confirmSwapHint4": "Output will be sent to",
   "back": "Back",
-  
+
   "swapFrom": "From",
   "swapTo": "To",
   "wrap":"Wrap",

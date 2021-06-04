@@ -98,7 +98,7 @@
   "readMore": "阅读更多：《Crust代币指标&经济学》",
   "step1": "为Uniswap CRU Pools提供流动性",
   "step2": "选择一个交易池并质押LP token",
-  "step3": "质押/取出LP Token，获得CSM奖励",
+  "step3": "LP通证质押活动已结束，请取出LP Token，\n以及对应的CSM奖励",
   "stepDesc": "* 您可以前往Uniswap兑换<1>CRU</1>和<3>CSM</3>。在Uniswap的弹出框里点击“Continue”。",
   "transactionSettings":"交易设置",
   "slippageError1": "输入有效的滑点百分比",
